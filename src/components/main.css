@@ -1,0 +1,11 @@
+.word-step { position: absolute; width: 100%; top: 40%; transform: translateY(-50%) }
+.w {
+    text-align: center;
+}
+.w0 { font-size: 15px; color: #EEE; }
+.w1 { font-size: 18px; color: #EEE; }
+.w2 { font-size: 25px; color: silver; }
+.w3 { font-size: 80px; }
+.w4 { font-size: 40px; }
+.w5 { font-size: 30px; }
+.w6 { font-size: 20px; }

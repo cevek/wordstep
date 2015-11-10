@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitAny": true,
+    "rootDir": ".",
+    "noEmit": true,
+    "sourceMap": true,
+    "noLib": true,
+    "jsx": "react"
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "files": [
+    "./typings/lib/lib.es6.d.ts",
+    "./typings/lib/require.d.ts",
+    "./typings/react/react.d.ts",
+    "./src/app.ts"
+  ]
+}
