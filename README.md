@@ -1,1 +1,1 @@
-# TypeScript starter kit
+# WordStep app
